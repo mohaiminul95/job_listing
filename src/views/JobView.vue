@@ -1,0 +1,5 @@
+<script setup></script>
+
+<template>
+  <h1>Job Details</h1>
+</template>
